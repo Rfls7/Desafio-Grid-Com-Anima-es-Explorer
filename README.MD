@@ -1,7 +1,7 @@
 # EXPLORER - DESAFIO
 > Desafio prático do Explorer -> Grid com animações
 
-![preview](/Print%20do%20projeto.jpeg
+![preview](/Print%20do%20projeto.jpeg)
 
 ## 🔧 Tecnologias 🔧
 
